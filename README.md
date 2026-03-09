@@ -95,3 +95,10 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/ufc-fight-analytics.git
+
+```bash
+cd ufc-fight-analytics
+
+pip install -r requirements.txt
+
+pip install -r requirements.txt
